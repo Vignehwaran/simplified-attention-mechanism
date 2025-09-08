@@ -1,3 +1,6 @@
+
+##simplified-attention-mechanism
+
 Introduction
 
 Before diving into the self-attention layer, it’s useful to experiment with a simplified attention mechanism built from scratch.
